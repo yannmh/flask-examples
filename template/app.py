@@ -27,6 +27,9 @@ movies = [
     {'name': 'Black Swan', 'year': '2010'},
     {'name': 'Gone Girl', 'year': '2014'},
     {'name': 'CoCo', 'year': '2017'},
+    {'name': 'Dune', 'year': '2021'},
+    {'name': 'The Batman', 'year': '2022'},
+    {'name': 'Oppenheimer', 'year': '2023'},
 ]
 
 
