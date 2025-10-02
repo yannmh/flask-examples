@@ -29,6 +29,7 @@ movies = [
     {'name': 'CoCo', 'year': '2017'},
     {'name': 'Parasite', 'year': '2019'},
     {'name': 'Joker', 'year': '2019'},
+    {'name': '1917', 'year': '2019'},
 ]
 
 
