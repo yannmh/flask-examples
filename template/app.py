@@ -41,6 +41,7 @@ movies = [
     {'name': 'The Fabelmans', 'year': '2022'},
     {'name': 'Tar', 'year': '2022'},
     {'name': 'Nope', 'year': '2022'},
+    {'name': 'The Batman', 'year': '2022'},
 ]
 
 
